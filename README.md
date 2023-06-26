@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-### Hi there 👋
 <div align=center>
    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELCOME!&fontSize=90" />
 </div>
@@ -13,9 +11,6 @@
    <br>
    <a href="https://www.notion.so/Data-Engineer-db8e524ad9144bbcbcd8010d5b471873">   
       <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
-      <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
    </a>
 <br>
 </p>
@@ -29,8 +24,6 @@
 <p align="center" display="inline-block">
     💡Language <br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
@@ -69,19 +62,3 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=trevormoon&theme=tokyonight&show_icons=true" width="46%" />
 </a>
-
-
-<!--
-**2017440015/2017440015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
