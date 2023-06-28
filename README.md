@@ -9,7 +9,7 @@
     👐안녕하세요 반갑습니다👐<br>
     제 이름은 김민주이고 머신러닝 및 데이터 분석 관련하여 공부하고 있습니다.<br>
    <br>
-   <a href="https://www.notion.so/5db4b21e08dd434c9259b9f02cf879b3?pvs=12">   
+   <a href="[https://www.notion.so/5db4b21e08dd434c9259b9f02cf879b3?pvs=12](https://www.notion.so/ec161da8a40b4c58adf5289bdf1aae9f)">   
       <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
    </a>
 <br>
