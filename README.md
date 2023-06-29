@@ -9,8 +9,9 @@
     👐안녕하세요 반갑습니다👐<br>
     제 이름은 김민주이고 머신러닝 및 데이터 분석 관련하여 공부하고 있습니다.<br>
    <br>
-   <a href=https://www.notion.so/ASAC-ec161da8a40b4c58adf5289bdf1aae9f>   
-      <img src='https://scarce-hockey-4f0.notion.site/ASAC-1-9da27fa854b44770b8d1cde2bbf9fd4b?pvs=4'>
+   <a href="https://www.notion.so/Data-Engineer-db8e524ad9144bbcbcd8010d5b471873">   
+      <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
+
    </a>
 <br>
 </p>
